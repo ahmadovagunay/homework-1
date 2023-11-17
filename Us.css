@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-image: url(concrete_seamless.png);
+    font-size: 30px;
+    
+}
+div.A{
+    border: 0px solid gray;
+    
+    height: 500px;
+    width: 480px;
+    margin-left: 400px; 
+    background-color: white;
+}
+input.one{
+    margin-top: 5px;
+    width: 400px;
+    height: 20px;
+}
+input.two{
+    width: 400px;
+    height: 20px;
+
+}
+p.on{
+    margin-top: 0;
+}
+textarea{
+    width: 400px;
+			margin-bottom: 10px;
+			padding: 10px;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			font-size: 1em;
+}
+input.submit{
+    background-color: green;
+    height: 50px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    
+    border-radius: 2px;
+    cursor: pointer;
+    
+}
+textarea{
+    height: 70px;
+
+}
+
